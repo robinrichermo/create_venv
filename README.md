@@ -4,6 +4,7 @@ how to create venv in Windows10:
 1) If you want to use PowerShell instead of cmd terminal you have to set the set-executionpolicy to unrestricted
 
     For that open powerShell as admin:
+    
     Set-ExecutionPolicy -Scope CurrentUser
     Execution Policy: Unrestricted
 
@@ -23,6 +24,7 @@ how to create venv in Windows10:
 5) Open your venv:
 
     in pwshell: name_of_your_venv\Scripts\Activate.ps1
+    
     in pwshell, cd your new clode repo: cd potfolio-app
 
 
