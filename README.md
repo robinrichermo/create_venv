@@ -5,8 +5,7 @@ how to create venv in Windows10:
 
     For that open powerShell as admin:
     
-    Set-ExecutionPolicy -Scope CurrentUser
-    Execution Policy: Unrestricted
+    Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 
 2) Create directory where you want to create your venv
 
